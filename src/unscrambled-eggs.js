@@ -1,5 +1,5 @@
 function unscrambleEggs() {
-  return 'hello';
+  throw new Error('Missing or wrong Input');
 }
 
 module.exports = unscrambleEggs;

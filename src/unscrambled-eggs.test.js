@@ -1,7 +1,7 @@
 const unscrambleEggs = require('./unscrambled-eggs');
 
-describe('hello', () => {
-  it('should return hello', () => {
-    expect(unscrambleEggs()).toBe('hello');
+describe('unscrambleEggs', () => {
+  it('UAT1.1: User can pass in no input, it should throw an exception', () => {
+    expect(() => unscrambleEggs()).toThrow();
   });
 });

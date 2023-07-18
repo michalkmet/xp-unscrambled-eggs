@@ -21,4 +21,4 @@ Kata is supposed to be for beginners to practice regular expressions, so comment
 Pomodoro 1:
 - ✅ TODO Initial setup and refactor
 - ✅ TODO User stories
-- ⚠ TODO UAT1.1
+- ✅ TODO UAT1.1: User can pass in no input, it should throw an exception
