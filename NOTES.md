@@ -19,10 +19,12 @@ Kata is supposed to be for beginners to practice regular expressions, so comment
 ## Plans
 
 Pomodoro 1:
-- ✅  Initial setup and refactor
-- ✅  User stories
-- ✅  UAT1.1: User can pass in no input, it should throw an exception
-- ✅  UAT1.2: User can pass in empty string, it should return empty string
-- ✅  UAT1.3: User can pass in number, it should throw an exception
-- ✅  TODO UAT2.1: User can pass in 'legg', it should return a 'l'
+- ✅ Initial setup and refactor
+- ✅ User stories
+- ✅ UAT1.1: User can pass in no input, it should throw an exception
+- ✅ UAT1.2: User can pass in empty string, it should return empty string
+- ✅ UAT1.3: User can pass in number, it should throw an exception
+- ✅ UAT2.1: User can pass in 'legg', it should return a 'l'
+- ✅ UAT2.2: User can pass in 'teggbegg', it should return a 'tb'
+
 

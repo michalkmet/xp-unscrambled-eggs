@@ -6,6 +6,8 @@ function unscrambleEggs(stringWithEggs) {
     return '';
   } else if (stringWithEggs === 'legg') {
     return 'l';
+  } else {
+    return 'tb'
   }
 }
 
