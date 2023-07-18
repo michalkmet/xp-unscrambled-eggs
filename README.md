@@ -24,11 +24,11 @@ Story 1: User can pass in wrong or no inputs, it should throw an exception or re
 - ✅ UAT1.3: User can pass in number, it should throw an exception
 
 Story 2: User can pass in string with egg word after every consonant
-- ⚠ TODO UAT2.1: User can pass in 'legg', it should return a 'l'
-- ⚠ TODO UAT2.2: User can pass in 'teggbegg', it should return a 'tb'
-- ⚠ TODO UAT2.3: User can pass in 'seggawegg', it should return a 'saw'
-- ⚠ TODO UAT2.4: User can pass in 'leggalegga', it should return a 'lala'
-- ⚠ TODO UAT2.5: User can pass in 'heggeleggleggo', it should return a 'hello'
+- ✅ UAT2.1: User can pass in 'legg', it should return a 'l'
+- ✅ UAT2.2: User can pass in 'teggbegg', it should return a 'tb'
+- ✅ UAT2.3: User can pass in 'seggawegg', it should return a 'saw'
+- ✅ UAT2.4: User can pass in 'leggalegga', it should return a 'lala'
+- ✅ UAT2.5: User can pass in 'heggeleggleggo', it should return a 'hello'
 
 Story 3: User can pass in string from two words with egg word after every consonant
 - ⚠ TODO UAT3.1: User can pass in 'heggey megganegg', it should return a 'hey man'

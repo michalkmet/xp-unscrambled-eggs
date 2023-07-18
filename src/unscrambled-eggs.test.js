@@ -29,3 +29,9 @@ describe('Story 2', () => {
     expect(unscrambleEggs('heggeleggleggo')).toBe('hello');
   });
 });
+
+describe('Story 3', () => {
+  it('UAT3.1: User can pass in "heggey megganegg", it should return a "hey man"', () => {
+    expect(unscrambleEggs('heggey megganegg')).toBe('hey man');
+  });
+});
