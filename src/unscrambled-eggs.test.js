@@ -25,4 +25,7 @@ describe('Story 2', () => {
   it('UAT2.4: User can pass in "leggalegga", it should return a "lala"', () => {
     expect(unscrambleEggs('leggalegga')).toBe('lala');
   });
+  it('UAT2.5: User can pass in "heggeleggleggo", it should return a "hello"', () => {
+    expect(unscrambleEggs('heggeleggleggo')).toBe('hello');
+  });
 });

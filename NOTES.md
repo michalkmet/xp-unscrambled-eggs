@@ -30,6 +30,8 @@ Pomodoro 1:
 
 Pomodoro 2:
 - ✅ UAT2.3: User can pass in 'seggawegg', it should return a 'saw'
+- ✅ UAT2.4: User can pass in 'leggalegga', it should return a 'lala'
+- ✅ UAT2.5: User can pass in 'heggeleggleggo', it should return a 'hello'
 
 
 
