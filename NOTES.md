@@ -33,6 +33,6 @@ Pomodoro 2:
 - ✅ UAT2.4: User can pass in 'leggalegga', it should return a 'lala'
 - ✅ UAT2.5: User can pass in 'heggeleggleggo', it should return a 'hello'
 - ✅ UAT3.1: User can pass in 'heggey megganegg', it should return a 'hey man'
-
+- ✅ UAT3.2: User can pass in 'FeggUNegg KeggATeggA', it should return a 'FUN KATA'
 
 

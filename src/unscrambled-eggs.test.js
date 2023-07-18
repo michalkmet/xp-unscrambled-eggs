@@ -34,4 +34,7 @@ describe('Story 3', () => {
   it('UAT3.1: User can pass in "heggey megganegg", it should return a "hey man"', () => {
     expect(unscrambleEggs('heggey megganegg')).toBe('hey man');
   });
+  it('UAT3.2: User can pass in "FeggUNegg KeggATeggA", it should return a "FUN KATA"', () => {
+    expect(unscrambleEggs('FeggUNegg KeggATeggA')).toBe('FUN KATA');
+  });
 });

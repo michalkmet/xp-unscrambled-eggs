@@ -32,4 +32,4 @@ Story 2: User can pass in string with egg word after every consonant
 
 Story 3: User can pass in string from two words with egg word after every consonant
 - ✅  UAT3.1: User can pass in 'heggey megganegg', it should return a 'hey man'
-- ⚠ TODO UAT3.2: User can pass in 'FeffUNegg KeggATeggA', it should return a 'FUN KATA'
+- ⚠ TODO UAT3.2: User can pass in 'FeggUNegg KeggATeggA', it should return a 'FUN KATA'
