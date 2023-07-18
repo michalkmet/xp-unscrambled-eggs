@@ -22,3 +22,5 @@ Pomodoro 1:
 - ✅ TODO Initial setup and refactor
 - ✅ TODO User stories
 - ✅ TODO UAT1.1: User can pass in no input, it should throw an exception
+- ✅ TODO UAT1.2: User can pass in empty string, it should return empty string
+
