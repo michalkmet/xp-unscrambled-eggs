@@ -5,8 +5,7 @@ function unscrambleEggs(stringWithEggs) {
   if (stringWithEggs === '') {
     return '';
   } else {
-    const regex = /egg/g;
-    return stringWithEggs.replace(regex, '');
+    return stringWithEggs.replace(/egg/g, '');
   }
 }
 
