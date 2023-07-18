@@ -26,5 +26,7 @@ Pomodoro 1:
 - ✅ UAT1.3: User can pass in number, it should throw an exception
 - ✅ UAT2.1: User can pass in 'legg', it should return a 'l'
 - ✅ UAT2.2: User can pass in 'teggbegg', it should return a 'tb'
+- 🚧 UAT2.3: User can pass in 'seggawegg', it should return a 'saw'
+
 
 
