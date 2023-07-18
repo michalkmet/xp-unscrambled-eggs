@@ -7,4 +7,7 @@ describe('unscrambleEggs', () => {
   it('UAT1.2: User can pass in empty string, it should return empty string', () => {
     expect(unscrambleEggs('')).toBe('');
   });
+  it('UAT1.3: User can pass in number, it should throw an exception', () => {
+    expect(() => unscrambleEggs(9)).toThrow();
+  });
 });
