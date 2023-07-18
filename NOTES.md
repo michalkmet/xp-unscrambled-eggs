@@ -24,5 +24,5 @@ Pomodoro 1:
 - ✅  UAT1.1: User can pass in no input, it should throw an exception
 - ✅  UAT1.2: User can pass in empty string, it should return empty string
 - ✅  UAT1.3: User can pass in number, it should throw an exception
-- ⚠ TODO UAT2.1: User can pass in 'legg', it should return a 'l'
+- ✅  TODO UAT2.1: User can pass in 'legg', it should return a 'l'
 

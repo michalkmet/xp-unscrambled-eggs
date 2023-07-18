@@ -11,3 +11,9 @@ describe('Story 1', () => {
     expect(() => unscrambleEggs(9)).toThrow();
   });
 });
+
+describe('Story 2', () => {
+  it('UAT2.1: User can pass in "legg", it should return a "l"', () => {
+    expect(unscrambleEggs('legg')).toBe('l');
+  });
+});
