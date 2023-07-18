@@ -28,5 +28,8 @@ Pomodoro 1:
 - ✅ UAT2.2: User can pass in 'teggbegg', it should return a 'tb'
 - 🚧 UAT2.3: User can pass in 'seggawegg', it should return a 'saw'
 
+Pomodoro 2:
+- ✅ UAT2.3: User can pass in 'seggawegg', it should return a 'saw'
+
 
 
