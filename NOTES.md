@@ -17,3 +17,8 @@ Kata is supposed to be for beginners to practice regular expressions, so comment
 - ✅ DONE
 
 ## Plans
+
+Pomodoro 1:
+- ✅ TODO Initial setup and refactor
+- ✅ TODO User stories
+- ⚠ TODO UAT1.1
