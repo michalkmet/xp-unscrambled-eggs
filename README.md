@@ -19,9 +19,9 @@ Kata is supposed to be for beginners to practice regular expressions, so comment
 ## Backlog
 
 Story 1: User can pass in wrong or no inputs, it should throw an exception or return ''
-- ⚠ TODO UAT1.1: User can pass in no input, it should throw an exception
-- ⚠ TODO UAT1.2: User can pass in empty string, it should return empty string
-- ⚠ TODO UAT1.3: User can pass in number, it should throw an exception
+- ✅ UAT1.1: User can pass in no input, it should throw an exception
+- ✅ UAT1.2: User can pass in empty string, it should return empty string
+- ✅ UAT1.3: User can pass in number, it should throw an exception
 
 Story 2: User can pass in string with egg word after every consonant
 - ⚠ TODO UAT2.1: User can pass in 'legg', it should return a 'l'
